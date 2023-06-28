@@ -5,21 +5,28 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'My Docs',
-      social: {
-        github: 'https://github.com/withastro/starlight',
+      title: 'Placement',
+      logo: {
+        src: '/src/assets/logo-engineer.svg',
       },
+      // social: {
+      //   github: 'https://github.com/withastro/starlight',
+      // },
       sidebar: [
+        // {
+        //   label: 'Handbook',
+        //   items: [
+        //     // Each item here is one entry in the navigation menu.
+        //     { label: 'Background', link: '/handbook/background' },
+        //   ],
+        // },
         {
-          label: 'Guides',
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: 'Example Guide', link: '/guides/example/' },
-          ],
+          label: 'SCEIS Handbook',
+          autogenerate: { directory: 'handbook' },
         },
         {
-          label: 'Reference',
-          autogenerate: { directory: 'reference' },
+          label: 'Using Recruit',
+          autogenerate: { directory: 'recruit' },
         },
       ],
     }),
