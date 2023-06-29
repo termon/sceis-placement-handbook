@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://termon.github.io',
-  base: '/placement-starlight',
+  //base: '/placement-starlight',
   integrations: [
     starlight({
       title: 'Placement',
