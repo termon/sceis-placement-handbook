@@ -105,7 +105,7 @@ If a placement post you are offered was advertised on Handshake and you applied 
 
 - Submit the offer for review by the placement tutor.
 
-> **NOTE:** [click here to view recruit student guidance for confirming an approved post](/recruit/student/#approved-post)
+> **NOTE:** [click here to view recruit student guidance for confirming an approved post](/sceis-placement-handbook/student/recruit/#approved-post)
 
 ### Unapproved Post
 
@@ -136,7 +136,7 @@ To record the offer:
 
 - **Send an EMAIL to the Placement Tutor**, asking them to review and approve the post as they are not informed automatically when you log an external application.
 
-> **NOTE:** [click here to view recruit student guidance for confirming an unapproved post](/recruit/student/#unapproved-post)
+> **NOTE:** [click here to view recruit student guidance for confirming an unapproved post](/sceis-placement-handbook/student/recruit/#unapproved-post)
 
 ### Multiple Offers
 

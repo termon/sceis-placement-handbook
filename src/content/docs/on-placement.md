@@ -38,7 +38,7 @@ On commencement of a placement there are certain responsibilities placed on the 
 
 ## Starting Placement
 
-Once you have started your placement you need to confirm some important data regarding your placement on the Recruit system. Guidance on using Recruit to add data required can be found in the [Recruit Guidance - Starting Placement](/recruit/student#starting-placement) section of the handbook.
+Once you have started your placement you need to confirm some important data regarding your placement on the Recruit system. Guidance on using Recruit to add data required can be found in the [Recruit Guidance - Starting Placement](/sceis-placement-handbook/student/recruit/#starting-placement) section of the handbook.
 
 This data includes
 
