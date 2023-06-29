@@ -4,7 +4,7 @@ description: Intro to placement
 author: Aiden McCaughey
 ---
 
-[img](../../../assets/logo-engineer.svg)
+![img](/logo-placement.png)
 
 ## Scope
 

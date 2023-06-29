@@ -24,10 +24,18 @@ export default defineConfig({
           label: 'SCEIS Handbook',
           autogenerate: { directory: 'handbook' },
         },
+        // {
+        //   label: 'Using Recruit',
+        //   autogenerate: { directory: 'recruit' },
+        // },
         {
-          label: 'Using Recruit',
-          autogenerate: { directory: 'recruit' },
+          label: 'Links',
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: 'Home', link: '/' },
+          ],
         },
+
       ],
     }),
   ],
