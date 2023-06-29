@@ -4,6 +4,8 @@ description: Introduction to placement
 author: Aiden McCaughey
 ---
 
+![img](/sceis-placement-handbook/logo-placement.png)
+
 ## Placement Summary
 
 Placement (also known as *Work-based learning*) forms an integral part of all the undergraduate degree programmes of study within the School of Computing, Engineering and Intelligent Systems, within the Faculty of Computing, Engineering and the Built Environment at Ulster University.

@@ -4,6 +4,8 @@ description: Information covering pre-placement activities
 author: Aiden McCaughey
 ---
 
+![img](/sceis-placement-handbook/preparation.png)
+
 ## Introduction
 
 Placement preparation starts during semester one of year two with EEE407 Professional Development module. This module is used to deliver specific placement preparation classes and also introduce students to professional issues that are relevant in the workplace (Professional Bodies (BCS, IEEE), Ethics, Intellectual Property Rights, Computer Misuse, Entrepreneurship, Health and Safety, Regulation and Control of Personal Information etc).

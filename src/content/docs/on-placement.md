@@ -4,6 +4,8 @@ description: Information covering onplacement activities
 author: Aiden McCaughey
 ---
 
+![img](/sceis-placement-handbook/working.jpeg)
+
 ## Responsibilities
 
 On commencement of a placement there are certain responsibilities placed on the student, the employer and the overall supervision of the student during the placement.
