@@ -12,9 +12,9 @@ export default defineConfig({
       logo: {
         src: '/src/assets/logo-ulster.svg',
       },
-      social: {
-        github: 'https://github.com/termon/sceis-placement-handbook',
-      },
+      // social: {
+      //   github: 'https://github.com/termon/sceis-placement-handbook',
+      // },
       sidebar: [
         {
           label: 'Handbook',
