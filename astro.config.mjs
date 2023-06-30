@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       title: 'SCEIS',
       editLink: {
-        baseUrl: 'https://github.com/termon/edit/main/'
+        baseUrl: 'https://github.com/termon/sceis-placement-handbook/edit/main/'
       },
       logo: {
         src: '/src/assets/logo-ulster.svg',
