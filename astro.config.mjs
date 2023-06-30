@@ -5,19 +5,20 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Placement',
+      title: 'SCEIS',
       editLink: {
         baseUrl: 'https://github.com/termon/edit/main/'
       },
       logo: {
         src: '/src/assets/logo-ulster.svg',
+        //replacesTitle: true,
       },
       // social: {
       //   github: 'https://github.com/termon/sceis-placement-handbook',
       // },
       sidebar: [
         {
-          label: 'Handbook',
+          label: 'Placement Handbook',
           //   autogenerate: { directory: 'handbook' },
           items: [
             // Each item here is one entry in the navigation menu.
