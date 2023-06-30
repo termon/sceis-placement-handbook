@@ -3,22 +3,18 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://termon.github.io',
-  base: '/sceis-placement-handbook',
   integrations: [
     starlight({
-      title: 'SCEIS Placement Handbook',
+      title: 'Placement',
       editLink: {
-        baseUrl: 'https://github.com/termon/sceis-placement-handbook/edit/main/'
+        baseUrl: 'https://github.com/termon/edit/main/'
       },
       logo: {
         src: '/src/assets/logo-ulster.svg',
-        //light: '/src/assets/light-logo-engineer.svg',
-        //dark: '/src/assets/dark-logo-engineer.svg',
       },
-      // social: {
-      //   github: 'https://github.com/termon/sceis-placement-handbook',
-      // },
+      social: {
+        github: 'https://github.com/termon/sceis-placement-handbook',
+      },
       sidebar: [
         {
           label: 'Handbook',
