@@ -202,7 +202,7 @@ As per placement visit submissions, once the final report submission has been as
 
 ## Exemption Request
 
-If you are eligible for exemption from placement you can make an application via Recruit. See placement preparation section on [ exemptions](/sceis-placement-handbookpreparation#placement-exemption) for more information on exemption categories.
+If you are eligible for exemption from placement you can make an application via Recruit. See placement preparation section on [ exemptions](/preparation#placement-exemption) for more information on exemption categories.
 
 > Note: applications on grounds of sufficient effort are not accepted until summer of year 2 and should not be made until you are instructed that applications are being accepted.
 

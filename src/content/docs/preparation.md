@@ -195,7 +195,7 @@ Students may only apply for exemption from placement on the following specific g
 
 **NOTE:** Applications of type **PE** can only be made if/when you are informed that this exemption category is being opened by the faculty (this is normally mid/late summer). In all other cases, students can make an exemption application at any point during Year 2.
 
-Any student wishing to apply for exemption should do so using the exemption application feature on [Recruit](https://recruit.ulster.ac.uk), selecting the above exemption category ```(PG, PH or PF, PE)``` that best describes their application.
+Any student wishing to apply for exemption should do so using the exemption application feature of [Recruit](/student/recruit/#exemption-application), selecting the above exemption category ```(PG, PH or PF, PE)``` that best describes their application.
 
 ### Remaining Unplaced
 
