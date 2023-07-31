@@ -1,6 +1,6 @@
 ---
-title: Academic Placement Guidance
-description: Academic Recruit Guidance
+title: Visitor Placement Guidance
+description: Visit and Recruit Guidance
 author: Aiden McCaughey
 ---
 

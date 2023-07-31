@@ -5,7 +5,8 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'SCEIS',
+      title: 'SCEIS Placement Handbook',
+      lastUpdated: true,
       editLink: {
         baseUrl: 'https://github.com/termon/sceis-placement-handbook/edit/main/'
       },
@@ -32,6 +33,10 @@ export default defineConfig({
           label: 'Tools',
           autogenerate: { directory: 'student' },
         },
+        // {
+        //   label: 'Placement Visitor',
+        //   autogenerate: { directory: 'academic' },
+        // },
         // {
         //   label: 'Useful Links',
         //   items: [
