@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'SCEIS Placement Handbook',
+      title: 'SCEIS Placement',
       lastUpdated: true,
       editLink: {
         baseUrl: 'https://github.com/termon/sceis-placement-handbook/edit/main/'
@@ -19,31 +19,35 @@ export default defineConfig({
       // },
       sidebar: [
         {
-          label: 'Placement Handbook',
+          label: 'Student Handbook',
           //   autogenerate: { directory: 'handbook' },
           items: [
             // Each item here is one entry in the navigation menu.
             { label: 'Background', link: '/' },
             { label: 'Introduction', link: '/introduction' },
             { label: 'Preparation', link: '/preparation' },
-            { label: 'On Placement', link: '/on-placement' },
+            { label: 'On Placement', link: '/on-placement', },
           ],
         },
         {
           label: 'Tools',
-          autogenerate: { directory: 'student' },
+         
+          items: [
+            { label: 'Recruit Student Guide', link: '/recruit/student' },   
+            { label: 'Handshake Student Guide', link: '/tools/handshake' },             
+            //{ label: 'For Academics', link: '/recruit/academic' },        
+          ],          
         },
         // {
-        //   label: 'Placement Visitor',
-        //   autogenerate: { directory: 'academic' },
+        //   label: 'Links',
+        //   autogenerate: { directory: 'links' },
         // },
         // {
         //   label: 'Useful Links',
         //   items: [
         //     // Each item here is one entry in the navigation menu.
-        //     { label: 'Home', link: '/' },
-        //     { label: 'Recruit', link: 'https://recruit.ulster.ac.uk' },
-        //     { label: 'Handshake', link: 'https://ulster.joinhandshake.co.uk/login' },
+        //     { label: 'Login to Recruit', link: 'https://recruit.ulster.ac.uk' },
+        //     { label: 'Login to Handshake', link: 'https://ulster.joinhandshake.co.uk/login' },
         //   ],
         // },
 

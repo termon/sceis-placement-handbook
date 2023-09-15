@@ -1,12 +1,12 @@
 ---
-title: Visitor Placement Guidance
+title: Academic Supervisor Guidance
 description: Visit and Recruit Guidance
 author: Aiden McCaughey
 ---
 
 ## Introduction
 
-Placement Visitors should be mindful that placement visits are a crucial element of the Teaching and Learning process and as such, like lectures, tutorials etc., they are an important aspect of their academic workload. Placement visits provide an opportunity for the visiting academic to assess student learning and performance in the workplace and compare that with students on other placements.
+Academic Supervisors (placement visitors) should be mindful that placement visits are a crucial element of the Teaching and Learning process and as such, like lectures, tutorials etc., they are an important aspect of their academic workload. Placement visits provide an opportunity for the visiting academic to assess student learning and performance in the workplace and compare that with students on other placements.
 
 ## Visit Guidelines
 
