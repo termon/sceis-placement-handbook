@@ -30,6 +30,7 @@ On commencement of a placement year, there are certain responsibilities placed o
 - The company may identify a peer (mentor) who will help the student settle in and ‘show them the ropes’ during the first few weeks (this may be the outgoing placement student).
 - At the start of the placement, the student will be provided with suitable introductory material, background reading, training etc. as required.
 - The student will be paid an appropriate salary. (There are wide variations!)
+- The company will facilitiate placement visits by an academic member of University staff. The visit will involve discussions with the student and their industrial supervisor to assess their progress and deal with any issues. Two visits are typically carried out (depending on duration of placement), and these usually occur around November/December and March/April. Visits may be carried out onsite or remote.
 
 ### Supervison
 
