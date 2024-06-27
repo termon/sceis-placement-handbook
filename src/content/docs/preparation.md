@@ -40,7 +40,7 @@ CV preparation is an element of the Professional Development module to help stud
 
 - Approved Placements: You should review posts being offered via Handshake and select those that are a good fit for your skillset and area of interest (computing/engineering). You should also consider other factors such as the location of the post, whether travel or accommodation are required, and additionally salary which is especially important if you will require accommodation. Only when you are satisfied that the post is relevant and one that would you be happy to accept if offered should you apply.
 
-- Unapproved Placements: You may (and indeed should) also use other external resources such as employment websites, direct company applications etc, to widen your application reach. Note that these applications are not formally recorded, and you should keep a record of your efforts in these areas. This is especially relevant in case where you are offered on of these posts as you will have to make an external application via the ‘Recruit system’ and have the post formally approved before being able to accept the offer (see section 3.6).
+- Unapproved Placements: You may (and indeed should) also use other external resources such as employment websites, direct company applications etc, to widen your application reach. Note that these applications are not formally recorded, and you should keep a record of your efforts in these areas. This is especially relevant in case where you are offered on of these posts as you will have to make an external application via the ‘Recruit system’ and have the post formally approved before being able to accept the offer (See [link here](/preparation/#unapproved-post)).
 
 ### Best Approach
 
