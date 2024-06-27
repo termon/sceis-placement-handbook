@@ -30,7 +30,7 @@ The primary resource for finding placement opportunities is via [Handshake](http
 
 ### Unapproved Posts
 
-A secondary but just as important resource involves individual searches by students to locate relevant posts via for example, third-party recruitment or individual employer websites, newspaper advertisements, word of mouth, direct contact with employers etc. Students should ensure that any post applied for is relevant for their degree and when in doubt the student should contact the Placement Tutor for advice/guidance. As these posts have not been vetted and approved by university staff you will have to have the post approved before you can accept an offer from a company. See section 3.6 on how to have a placement offer approved.
+A secondary but just as important resource involves individual searches by students to locate relevant posts via for example, third-party recruitment or individual employer websites, newspaper advertisements, word of mouth, direct contact with employers etc. Students should ensure that any post applied for is relevant for their degree and when in doubt the student should contact the Placement Tutor for advice/guidance. As these posts have not been vetted and approved by university staff you will have to have the post approved before you can accept an offer from a company. See [here](/preparation/#unapproved-post) on how to have a placement offer approved.
 
 ## Placement Applications
 
