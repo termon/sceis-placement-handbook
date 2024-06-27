@@ -160,7 +160,7 @@ Once an academic visitor has scheduled a placement visit on Recruit, the student
 
 The student should then upload the Placement Work Summary Form at least 48 hours before your first placement visit. Note the option to upload the form is not available until the academic supervisor schedules the visit **via Recruit**. If the upload does not appear then contact your academic supervisor and ask them to schedule the visit in Recruit.
 
-The Placement Work Summary Form template is available in the [downloads](/sceis-placement-handbookstudent/recruit/#resources--downloads) area.
+The Placement Work Summary Form template is available in the Recruit [downloads](/recruit/student/#resources--downloads) area.
 
 You can upload this document as often as required (over writing the original), up until the academic has submitted visit feedback and at which point the document can no longer be uploaded.
 
@@ -180,7 +180,7 @@ You should reflect, in your Placement Journal, upon any feedback you have been g
 
 ### Final Report
 
-In semester 2 (typically around the second placement visit) students will be contacted by email and provided with instructions regarding submission of the final placement report. A template for the report will be provided via email and/or via the Recruit [downloads](/sceis-placement-handbookstudent/recruit/#resources--downloads) area.
+In semester 2 (typically around the second placement visit) students will be contacted by email and provided with instructions regarding submission of the final placement report. A template for the report will be provided via email and/or via the Recruit [downloads](/recruit/student/#resources--downloads) area.
 
 #### Upload Report
 
@@ -202,13 +202,13 @@ As per placement visit submissions, once the final report submission has been as
 
 ## Exemption Request
 
-If you are eligible for exemption from placement you can make an application via Recruit. See placement preparation section on [ exemptions](/preparation#placement-exemption) for more information on exemption categories.
+If you are eligible for exemption from placement you can make an application via Recruit. See placement preparation section on [exemptions](/preparation#placement-exemption) for more information on exemption categories.
 
 > Note: applications on grounds of sufficient effort are not accepted until summer of year 2 and should not be made until you are instructed that applications are being accepted.
 
 ### Exemption Application
 
-To make an application login to [Recruit](https://recruit.ulster.ac.uk) and select **Applications / Apply for Exemption** 
+To make an application login to [Recruit](/recruit/student) and select **Applications / Apply for Exemption** 
 
 ![img](/recruit/student/9-exemption.png)
 
