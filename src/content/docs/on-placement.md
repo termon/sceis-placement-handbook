@@ -41,7 +41,7 @@ On commencement of a placement year, there are certain responsibilities placed o
 
 ## Starting Placement
 
-Once you have started your placement you need to confirm some important data regarding your placement on the Recruit system. Guidance on using Recruit to add data required can be found in the [Recruit Guidance - Starting Placement](/student/recruit/#starting-placement) section of the handbook.
+Once you have started your placement you need to confirm some important data regarding your placement on the Recruit system. Guidance on using Recruit to add data required can be found in the [Recruit Guidance - Starting Placement](/recruit/student#starting-placement) section of the handbook.
 
 This data includes
 
@@ -83,7 +83,7 @@ During the placement year the student will be visited twice by the academic supe
 
 The academic supervisor will email you via your university account asking for suitable dates to carry out a visit. You should liaise with your industrial supervisor and ensure that they are also available at any agreed date/time.
 
-The academic supervisor will then schedule the visit via [Recruit](https://recruit.ulster.ac.uk), and you will receive an automated confirmation email with an attached calendar event. The student should then complete a placement visit summary form (found in the document section on Recruit) and upload this to the visit area on Recruit.
+The academic supervisor will then schedule the visit via [Recruit](/recruit/student), and you will receive an automated confirmation email with an attached calendar event. The student should then complete a placement visit summary form (found in the document section on Recruit) and upload this to the visit area on Recruit.
 
 ### What Happens at a Visit?
 

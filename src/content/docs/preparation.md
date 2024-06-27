@@ -26,11 +26,11 @@ Note that whilst assistance in finding placements is provided, the ultimate resp
 
 ### Approved Posts
 
-The primary resource for finding placement opportunities is via [Handshake](https://ulster.joinhandshake.co.uk)  These posts have been pre-vetted and approved by university staff as being suitable placement opportunities.
+The primary resource for finding placement opportunities is via [Handshake](/tools/handshake). These posts have been pre-vetted and approved by university staff as being suitable placement opportunities.
 
 ### Unapproved Posts
 
-A secondary but just as important resource involves individual searches by students to locate relevant posts via for example, third-party recruitment or individual employer websites, newspaper advertisements, word of mouth, direct contact with employers etc. Students should ensure that any post applied for is relevant for their degree and when in doubt the student should contact the Placement Tutor for advice/guidance. As these posts have not been vetted and approved by university staff you will have to have the post approved before you can accept an offer from a company. See [link here](/preparation/#unapproved-post) on how to have a placement offer approved.
+A secondary but just as important resource involves individual searches by students to locate relevant posts via for example, third-party recruitment or individual employer websites, newspaper advertisements, word of mouth, direct contact with employers etc. Students should ensure that any post applied for is relevant for their degree and when in doubt the student should contact the Placement Tutor for advice/guidance. As these posts have not been vetted and approved by university staff you will have to have the post approved before you can accept an offer from a company. See [placement offers](/preparation/#unapproved-post) on how to have a placement offer approved.
 
 ## Placement Applications
 
@@ -38,9 +38,9 @@ A secondary but just as important resource involves individual searches by stude
 
 CV preparation is an element of the Professional Development module to help students produce high quality CVs that give them the best opportunity to obtain a placement interview. You should only start applying for placements once you have an approved CV.
 
-- Approved Placements: You should review posts being offered via Handshake and select those that are a good fit for your skillset and area of interest (computing/engineering). You should also consider other factors such as the location of the post, whether travel or accommodation are required, and additionally salary which is especially important if you will require accommodation. Only when you are satisfied that the post is relevant and one that would you be happy to accept if offered should you apply.
+- Approved Placements: You should review posts being offered via [Handshake](/tools/handshake) and select those that are a good fit for your skillset and area of interest (computing/engineering). You should also consider other factors such as the location of the post, whether travel or accommodation are required, and additionally salary which is especially important if you will require accommodation. Only when you are satisfied that the post is relevant and one that would you be happy to accept if offered should you apply.
 
-- Unapproved Placements: You may (and indeed should) also use other external resources such as employment websites, direct company applications etc, to widen your application reach. Note that these applications are not formally recorded, and you should keep a record of your efforts in these areas. This is especially relevant in case where you are offered on of these posts as you will have to make an external application via the ‘Recruit system’ and have the post formally approved before being able to accept the offer (See [link here](/preparation/#unapproved-post)).
+- Unapproved Placements: You may (and indeed should) also use other external resources such as employment websites, direct company applications etc, to widen your application reach. Note that these applications are not formally recorded, and you should keep a record of your efforts in these areas. This is especially relevant in case where you are offered on of these posts as you will have to make an external application via the ‘Recruit system’ and have the post formally approved before being able to accept the offer (See [placement offers](/preparation/#unapproved-post)).
 
 ### Best Approach
 
@@ -101,7 +101,7 @@ Typically, an employer will contact students directly with offers, via a telepho
 
 If a placement post you are offered was advertised on Handshake and you applied for the post via Handshake then the post will be listed in your applications on Recruit. To record the offer:
 
-- Login to [Recruit](https://recruit.ulster.ac.uk), navigate to your list of Applications via ```Year Long Placements / Applications``` and click the ```Confirm Offer``` link against the relevant application.
+- Login to [Recruit](/recruit/student), navigate to your list of Applications via ```Year Long Placements / Applications``` and click the ```Confirm Offer``` link against the relevant application.
 
 - Complete the placement offer form and attach a document containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
 
@@ -130,7 +130,7 @@ If a placement post you are offered was not advertised on Handshake and you appl
 
 To record the offer:
 
-- Login to [Recruit](https://recruit.ulster.ac.uk) and log an EXTERNAL APPLICATION under ```Year Long Placements / Applications / External Applications / Log External Application```
+- Login to [Recruit](/recruit/student) and log an EXTERNAL APPLICATION under ```Year Long Placements / Applications / External Applications / Log External Application```
 
 - Complete the application form using a suitable job description provided by the company (see above for details required). You may already have this information if you followed the guidance regarding keeping records of external placement applications. Attach a document to the application containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
 
@@ -195,7 +195,7 @@ Students may only apply for exemption from placement on the following specific g
 
 **NOTE:** Applications of type **PE** can only be made if/when you are informed that this exemption category is being opened by the faculty (this is normally mid/late summer). In all other cases, students can make an exemption application at any point during Year 2.
 
-Any student wishing to apply for exemption should do so using the exemption application feature of [Recruit](/student/recruit/#exemption-application), selecting the above exemption category ```(PG, PH or PF, PE)``` that best describes their application.
+Any student wishing to apply for exemption should do so using the exemption application feature of [Recruit](recruit/student#exemption-application), selecting the above exemption category ```(PG, PH or PF, PE)``` that best describes their application.
 
 ### Remaining Unplaced
 
