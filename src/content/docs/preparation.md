@@ -107,7 +107,7 @@ If a placement post you are offered was advertised on Handshake and you applied 
 
 - Submit the offer for review by the placement tutor.
 
-> **NOTE:** [click here to view recruit student guidance for confirming an approved post](/student/recruit/#approved-post)
+> **NOTE:** [click here to view recruit student guidance for confirming an approved post](/recruit/student#approved-post)
 
 ### Unapproved Post
 
@@ -138,7 +138,7 @@ To record the offer:
 
 - **Send an EMAIL to the Placement Tutor**, asking them to review and approve the post as they are not informed automatically when you log an external application.
 
-> **NOTE:** [click here to view recruit student guidance for confirming an unapproved post](/student/recruit/#unapproved-post)
+> **NOTE:** [click here to view recruit student guidance for confirming an unapproved post](/recruit/student/#unapproved-post)
 
 ### Multiple Offers
 
