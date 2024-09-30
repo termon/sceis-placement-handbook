@@ -12,10 +12,9 @@ On commencement of a placement year, there are certain responsibilities placed o
 
 ### The Student
 
-- Complete the Health and Safety Induction check and upload to the Recruit system
-- Complete the Placement Learning Agreement document and upload to the Recruit system.
-- Have your employer complete the Placement Indemnity form and upload to the Recruit system. Where the company has any queries or expresses any concern in signing the form, then they should be referred to Employability and Careers who will deal with these issues.
-- Update the placement details and industrial supervisor details on the Recruit system.
+- Update the placement details and industrial supervisor details on the Recruit system. 
+- Complete the Placement Plan within the Recruit system.
+- Complete the Health and Safety Induction check within the Recruit system
 - The student will comply with all company regulations and conditions of employment.
 - The student will work diligently and always behave in a manner appropriate to the work. environment – considering the professional issues elements of placement preparation.
 - The student will complete the required assessment tasks and engagement in organisation of placement visits.
