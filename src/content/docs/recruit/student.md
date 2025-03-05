@@ -47,6 +47,26 @@ Complete the application form shown below. Please provide as much detail as poss
 
 ![img](/recruit/student/8-external-3.png)
 
+### Confirming Offer
+
+If you have been offered an post logged via an external application you should select the post from the list of external applications and click the 'Confirm Offer' link as shown below.
+
+![img](/recruit/student/8-external-offer-1.png)
+
+You should then complete the form adding a supporting statement and upload a pdf containing evidence that you have been offered the post (copy of an offer letter/email, contract etc).
+
+![img](/recruit/student/8-external-offer-2.png)
+
+Once submitted the system will send the following confirmation email.
+
+![img](/recruit/student/8-external-offer-4.png)
+
+#### Retract Offer
+
+If for any reason you wish to retract a confirmed offer, then from the list of external applications, select the post and click the 'Retract Offer' link as shown below.
+
+![img](/recruit/student/8-external-offer-3.png)
+
 ### Confirmation Email
 
 Once you have completed one of the above steps and your post has been approved, you will receive a confirmation email from Recruit as shown below.
