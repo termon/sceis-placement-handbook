@@ -25,47 +25,13 @@ Once you have been offered a placement post you need to log the offer on the Rec
 
 If you applied for the post via Handshake, then it will be recorded in your list of applications on Recruit.
 
-To log an application, navigate to **Year Long Placements**, then under **Applications** select the application you have been offered and click the **Confirm Offer** link.
+To log an application, navigate to **Applications**, then under **Placements** select the application you have been offered and click the **Confirm** link.
 
 ![img](/recruit/student/8-handshake-1.png)
 
 Now complete the form below and upload a document containing evidence that you have been offered the post.
 
 ![img](/recruit/student/8-handshake-2.png)
-
-### Unapproved Post
-
-Where a post was not advertised on Handshake it **must go through an approvals process** to have it verified as suitable. To log an application, navigate to **Year Long Placements**, then **Applications**, then **External Applications** as shown below.
-
-![img](/recruit/student/8-external-1.png)
-
-Then select **Log an External Application** as shown below
-
-![img](/recruit/student/8-external-2.png)
-
-Complete the application form shown below. Please provide as much detail as possible. You must also upload a document containing suitable evidence that the post has been offered as a placement (copy of a job offer - letter/email etc).
-
-![img](/recruit/student/8-external-3.png)
-
-### Confirming Offer
-
-If you have been offered an post logged via an external application you should select the post from the list of external applications and click the 'Confirm Offer' link as shown below.
-
-![img](/recruit/student/8-external-offer-1.png)
-
-You should then complete the form adding a supporting statement and upload a pdf containing evidence that you have been offered the post (copy of an offer letter/email, contract etc).
-
-![img](/recruit/student/8-external-offer-2.png)
-
-Once submitted the system will send the following confirmation email.
-
-![img](/recruit/student/8-external-offer-4.png)
-
-#### Retract Offer
-
-If for any reason you wish to retract a confirmed offer, then from the list of external applications, select the post and click the 'Retract Offer' link as shown below.
-
-![img](/recruit/student/8-external-offer-3.png)
 
 ### Confirmation Email
 
@@ -74,6 +40,45 @@ Once you have completed one of the above steps and your post has been approved, 
 ![img](/recruit/student/8-confirm-email.png)
 
 >⚠️ **NOTE** You will only receive this email when your placement been approved
+
+### Retract Offer
+
+If for any reason you wish to retract a confirmed offer, then from the list of placement applications, select the post and click the **Retract** link as shown below.
+
+![img](/recruit/student/8-external-offer-3.png)
+
+### External Offer
+
+Where a post was not advertised on Handshake it is unapproved and **must go through an approvals process** to have it verified as suitable. To log an application, navigate to **Applications**, then **Placement**, then select the **External** tab as shown below, before finally clicking the **Log External Application** as shown below
+
+![img](/recruit/student/8-external-1.png)
+
+Complete the application form shown below. Please provide as much detail as possible. You must also upload a document containing suitable evidence that the post has been offered as a placement (copy of a job offer - letter/email etc).
+
+![img](/recruit/student/8-external-2.png)
+
+![img](/recruit/student/8-external-3.png)
+
+### Confirming Offer
+
+Once the external application has been logged, you may confirm you wish to accept this post by selecting it from the list of external applications, and click the 'Confirm Offer' link as shown below.
+
+![img](/recruit/student/8-external-offer-1.png)
+
+You should then complete the form below, adding a supporting statement and upload a pdf containing evidence that you have been offered the post (copy of an offer letter/email, contract etc).
+
+![img](/recruit/student/8-external-offer-2.png)
+
+Once submitted the system will send the following confirmation email.
+
+![img](/recruit/student/8-external-offer-4.png)
+
+
+### Retract Offer
+
+If for any reason you wish to retract a confirmed offer, then from the list of external applications, select the post and click the **Retract Confirmation** link as shown below.
+
+![img](/recruit/student/8-external-offer-5.png)
 
 ## Starting Placement
 
@@ -93,9 +98,19 @@ This includes details relating to your placement (employer, role, start end date
 
 ![img](/recruit/student/2-employment.png)
 
-Select **Edit Placement Details** to update any missing or incorrect placement details and **Industrial Supervisor** to select your industrial supervisor. If they are not listed then you can add a new industrial supervisor. 
+Select **Edit** button within the **Placement Details** section to update any missing or incorrect placement details. 
 
-![img](/recruit/student/2-employment-edit.png)
+![img](/recruit/student/2-employment-edit-1.png)
+
+Within the **Industrial Supervisor** section, click the **Select** button to choose a supervisor. 
+
+![img](/recruit/student/2-employment-edit-2.png)
+
+If they are not listed then you can add a new industrial supervisor by clicking **Add New Supervisor**. 
+
+![img](/recruit/student/2-employment-edit-3.png)
+
+To update an existing supervisor click the **Change** or **Edit** options.
 
 ### Placement Plan
 
@@ -115,7 +130,7 @@ Your safety whilst on placement is of paramount importance and thus it is essent
 
 >⚠️  **NOTE:** Recruit will send reminder emails to students, until these actions are completed.
 
-### Resources & Downloads
+### Resources / Downloads
 
 During the placement the student may be directed to various placement related documents. These are available in the Resources and Downloads sections and examples are shown below.
 
@@ -159,6 +174,8 @@ New journal entries can be added by clicking the Journal Entry button and then f
 
 You can normally expect to be visited twice during your placement. The first visit will take place around November/December and the second visit around March/April. These dates may vary slightly depending on when your placement started.
 
+![img](/recruit/student/5-visit-1.png)
+
 >⚠️ **NOTE** You must regularly check your University email account for communications from the placement team and your academic visitor and respond in a timely manner.
 
 At a visit, your academic visitor will normally:
@@ -174,29 +191,37 @@ At a visit, your academic visitor will normally:
 
 Once an academic visitor has scheduled a placement visit on Recruit, the student and the industrial supervisor are automatically emailed (email includes a calendar ICS file attachment).
 
-![img](/recruit/student/5-visit-1.png)
+![img](/recruit/student/5-visit-2.png)
 
-#### Placement Work Summary
+#### Work Summary
 
-The student should then upload the Placement Work Summary Form at least 48 hours before your first placement visit. Note the option to upload the form is not available until the academic supervisor schedules the visit **via Recruit**. If the upload does not appear then contact your academic supervisor and ask them to schedule the visit in Recruit.
+The student should then upload the Placement Work Summary Form at least 48 hours before your first placement visit. Note the option to upload the form is not available until the academic supervisor schedules the visit **via Recruit**. In the example below a second visit has been scheduled and the **Upload** button is now available. If **Upload** does not appear then contact your academic supervisor and ask them to schedule the visit in Recruit.
+
+![img](/recruit/student/5-visit-3.png)
 
 The Placement Work Summary Form template is available in the Recruit [downloads](/recruit/student/#resources--downloads) area.
 
 You can upload this document as often as required (over writing the original), up until the academic has submitted visit feedback and at which point the document can no longer be uploaded.
 
-![img](/recruit/student/5-visit-2.png)
+![img](/recruit/student/5-visit-4.png)
 
-#### Visit Feedback
 
-Once the visit has been completed the academic will upload their visit feedback and the student will receive and email alerting them to the fact that the feedback is now available.
+#### Feedback
+
+Once the visit has been completed the academic will upload their visit feedback and the student will receive and email alerting them to the fact that the feedback is now available. 
+
+![img](/recruit/student/5-visit-5.png)
+
+> Note - once the academic visitor has uploaded feedback you can no longer re-upload a Visit Submission form.
+
+In the example below you can view feedback provided for the first visit by clicking the **View** link.
 
 ![img](/recruit/student/5-visit-3.png)
 
-When you log in again you can no longer upload the First Visit Submission and instead can click the visit *View* button to review the feedback provided.
+Here you can now view details of the visit and view your work summary or the visit feedback form provided by your academic vistor, by clicking the relevant button.
 
-![img](/recruit/student/5-visit-4.png)
+![img](/recruit/student/5-visit-6.png)
 
-You should reflect, in your Placement Journal, upon any feedback you have been given.
 
 ### Final Report
 
@@ -204,11 +229,12 @@ In semester 2 (typically around the second placement visit) students will be con
 
 #### Upload Report
 
- To upload the report select the `Upload Placement Report` button in the Submissions section.
+ To upload the final placement report select the `Final Report` button in the Submissions section.
 
 ![img](/recruit/student/6-report-1.png)
 
-Then upload the report (in pdf format). As noted, you should not upload the report until informed by the Placement Tutor. Typically report notifications are send out around late April, with report submissions to be made by end of May.
+Then upload the report (in pdf format). As noted, you should not upload the report until informed by the Placement Tutor. Typically report notifications are send out around late April, with report submissions to be made by end of May. 
+> These dates may vary between schools/faculties. Please check your placement handbook.
 
 ![img](/recruit/student/6-report-2.png)
 
