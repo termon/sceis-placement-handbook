@@ -47,6 +47,9 @@ If for any reason you wish to retract a confirmed offer, then from the list of p
 
 ![img](/recruit/student/8-external-offer-3.png)
 
+### Internship Applications
+In some cases, employers may inadvertantly classify placement posts on Handshake as `Internships`. If you are offered an internship you must contact your placement tutor and have them approve the post for placement. Once done the application will appear in your placement applications list and you can confirm the offer as normal.
+
 ### External Offer
 
 Where a post was not advertised on Handshake it is unapproved and **must go through an approvals process** to have it verified as suitable. To log an application, navigate to **Applications**, then **Placement**, then select the **External** tab as shown below, before finally clicking the **Log External Application** as shown below

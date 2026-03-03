@@ -99,15 +99,18 @@ Typically, an employer will contact students directly with offers, via a telepho
 
 ### Approved Post
 
-If a placement post you are offered was advertised on Handshake and you applied for the post via Handshake then the post will be listed in your applications on Recruit. To record the offer:
+If a placement post you are offered was advertised on Handshake and you applied for the post via Handshake then the post will be listed in your placement applications on Recruit. To record the offer:
 
-- Login to [Recruit](/recruit/student), navigate to your list of Applications via ```Year Long Placements / Applications``` and click the ```Confirm Offer``` link against the relevant application.
+- Login to [Recruit](/recruit/student), navigate to your list of Applications via ```Applications\Placements``` and click the ```Confirm``` link against the relevant application.
 
 - Complete the placement offer form and attach a document containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
 
 - Submit the offer for review by the placement tutor.
 
+If you have been offered a post listed under the `Internships`, then you need to contact your placement tutor to have them approve the post. Once approved, it will appear in your `Placements` list, where you can confirm the offer as outlined above.
+
 > **NOTE:** [click here to view recruit student guidance for confirming an approved post](/recruit/student#approved-post)
+
 
 ### Unapproved Post
 
@@ -130,7 +133,7 @@ If a placement post you are offered was not advertised on Handshake and you appl
 
 To record the offer:
 
-- Login to [Recruit](/recruit/student) and log an EXTERNAL APPLICATION under ```Year Long Placements / Applications / External Applications / Log External Application```
+- Login to [Recruit](/recruit/student) and log an EXTERNAL APPLICATION under `Applications/External/Log External Application`
 
 - Complete the application form using a suitable job description provided by the company (see above for details required). You may already have this information if you followed the guidance regarding keeping records of external placement applications. Attach a document to the application containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
 
